@@ -2,7 +2,7 @@
 Veka is a distributed large language model inference framework.
 Over 95% of the work on the Veka project is completed by AI, including AI coding, AI testing, AI operation, and AI customer service.
 
-veka项目依赖于两个前置项目：
+veka项目正在初始化中，它依赖于两个前置项目：
 
 通过vectordb项目掌握使用AI工具构建大型生产级基础软件的方法
 https://github.com/vectordb-io/vectordb
